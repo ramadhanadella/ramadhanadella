@@ -39,6 +39,6 @@ I’m a passionate Fullstack Developer with a strong interest in building scalab
 
 ![](https://github-profile-trophy.vercel.app/?username=AdellaRamadhan19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+<img src="https://raw.githubusercontent.com/ramadhanadella/ramadhanadella/output/snake.svg" alt="Snake animation" />
 
-[![](https://visitcount.itsvg.in/api?id=AdellaRamadhan19&icon=0&color=0)](https://visitcount.itsvg.in)
+###
